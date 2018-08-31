@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EspressoSamples</string>
+    <string name="espresso_lib_image">Espresso_lib_image</string>
+</resources>
