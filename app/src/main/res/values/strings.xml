@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EspressoSamples</string>
     <string name="espresso_lib_image">Espresso_lib_image</string>
+    <string name="basic_test_case">Basic Test Case</string>
 </resources>
